@@ -12,7 +12,11 @@ MiM - Simple UI icon utility for OSX (Python)
 
 The purpose of the script is to accelarate usual icon assignement.
 
+
 The script is bundled with a starting pack of colored folders.
 ![StarterPack](https://raw.githubusercontent.com/melMass/MiM/master/MIM_V2_FolderColors.gif)
+
+You can add your own
+![CustomPack](https://raw.githubusercontent.com/melMass/MiM/master/MIM_V2_FolderPrj.gif)
 
 
